@@ -1,0 +1,187 @@
+
+<html style="background:#3168f0 url(/Skin/Home/Default/images/2.png) no-repeat top;background-size:cover;width:100%;height:100%;margin-bottom:0;box-sizing:border-box;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <title>新闻列表 -- 昆鹏自动发货平台</title>
+    <link href="./新闻列表 -- 昆鹏自动发货平台_files/tousu.css" type="text/css" rel="stylesheet">
+    <link href="./新闻列表 -- 昆鹏自动发货平台_files/index.css" type="text/css" rel="stylesheet">
+    <link href="./新闻列表 -- 昆鹏自动发货平台_files/default.css" type="text/css" rel="stylesheet">
+    <link href="./新闻列表 -- 昆鹏自动发货平台_files/font-awesome.min.css" type="text/css" rel="stylesheet">
+
+    <script src="./新闻列表 -- 昆鹏自动发货平台_files/jquery.min.js.下载"></script>
+    <script src="./新闻列表 -- 昆鹏自动发货平台_files/webuploader.min.js.下载"></script>
+    <script src="./新闻列表 -- 昆鹏自动发货平台_files/uploader.js.下载"></script>
+    <script src="./新闻列表 -- 昆鹏自动发货平台_files/layer.js.下载" type="text/javascript"></script><link rel="stylesheet" href="./新闻列表 -- 昆鹏自动发货平台_files/layer.css" id="layuicss-layer">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .menu {
+            list-style: none;
+            min-height: 300px;
+        }
+
+            .menu .new_list {
+               /* width: 560px;*/
+                height: 50px;
+            }
+
+            .menu .news_list .news {
+                /*float: left;*/
+                font-size: 18px;
+                font-weight: 700;
+                font-family: "Microsoft YaHei";
+                line-height: 50px;
+                /*background-color: red;*/
+                border-bottom: 1px solid #ff0000;
+                display: inline-block;
+            }
+
+            .menu .news_list a {
+                color: #000;
+            }
+
+            .menu .news_list .more {
+                display: inline-block;
+                float: right;
+                line-height: 50px;
+                margin-right: 50px;
+                color: #ccc;
+                /*border-bottom: 1px solid #ccc;*/
+                /*background-color: cyan;*/
+            }
+
+            .menu .news_list .line {
+                /*background-color: gold;*/
+                border-bottom: 1px solid #ccc;
+                /*width: 560px;*/
+            }
+
+        ul li div a {
+            text-decoration: none;
+        }
+
+        ul .list {
+            font-size: 14px;
+            font-family: "Microsoft YaHei";
+            /*width: 560px;*/
+            margin: 18px 0;
+            border-bottom: 1px dotted;
+        }
+
+            ul .list a {
+                /*color: #000;*/
+            }
+
+            ul .list .date {
+                float: right;
+            }
+
+            ul .list .point {
+                display: inline-block;
+                /*border: 1px solid red;*/
+                position: relative;
+                top: -7px;
+            }
+
+            ul .list .icon {
+                display: inline-block;
+            }
+    </style>
+</head>
+<body>
+    <div class="Checkindex2">
+        <div class="left">
+            <img src="./新闻列表 -- 昆鹏自动发货平台_files/3.png">
+        </div>
+        <div class="Checkindex3 right">
+            <ul class="Checkindex4">
+                <li class=""><a href="https://www.iqy88.com/">首页</a></li>
+                <li class="activeDate"><a href="https://www.iqy88.com/News">新闻列表</a></li>
+                <li class="  "><a href="https://www.iqy88.com/contact">联系</a></li>
+
+                <li class=""><a href="https://www.iqy88.com/order/query">查询订单</a></li>
+                <li><a href="https://www.iqy88.com/complaint/index">订单投诉</a></li>
+                <li class=""><a href="https://www.iqy88.com/complaint/query">投诉查询</a></li>
+            </ul>
+        </div>
+    </div>
+    <div style="padding: 20px; width: 57%; margin: 50px auto; position: relative; " class="ts_con">
+        
+        <ul class="menu">
+            <li class="news_list">
+                <div class="news"><a href="https://www.iqy88.com/News#">新闻列表</a></div>
+                <div class="line"></div>
+            </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/18" title="API充值/支付通知 对接参数">API充值/支付通知 对接参数</a>
+                        <span class="date">2023-01-02</span>
+                    </div>
+                </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/17" title="昆鹏自动发货平台使用教程">昆鹏自动发货平台使用教程</a>
+                        <span class="date">2022-12-31</span>
+                    </div>
+                </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/16" title="昆鹏自动发货平台禁止销售产品">昆鹏自动发货平台禁止销售产品</a>
+                        <span class="date">2022-12-31</span>
+                    </div>
+                </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/15" title="河南昆鹏自动发货平台-公司资质">河南昆鹏自动发货平台-公司资质</a>
+                        <span class="date">2022-12-31</span>
+                    </div>
+                </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/12" title="昆鹏自动发货平台法律声明及隐私权政策">昆鹏自动发货平台法律声明及隐私权政策</a>
+                        <span class="date">2022-12-31</span>
+                    </div>
+                </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/11" title="昆鹏自动发货平台买家退款服务协议">昆鹏自动发货平台买家退款服务协议</a>
+                        <span class="date">2022-12-31</span>
+                    </div>
+                </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/10" title="昆鹏自动发货平台服务协议">昆鹏自动发货平台服务协议</a>
+                        <span class="date">2022-12-31</span>
+                    </div>
+                </li>
+                <li class="list">
+                    <div>
+                        <a href="https://www.iqy88.com/detail/9" title="昆鹏自动发货平台用户协议">昆鹏自动发货平台用户协议</a>
+                        <span class="date">2022-12-31</span>
+                    </div>
+                </li>
+
+        </ul>
+    </div>
+
+
+    <script type="text/javascript">
+            $(function () {
+                $("ul.menu a.item_contact").addClass("active");
+                $(".shili").mouseover(function () {
+                    $("#slpic").show();
+                });
+                $(".shili").mouseout(function () {
+                    $("#slpic").hide();
+                });
+
+                //初始化上传控件
+                
+            })
+    </script>
+    <script src="./新闻列表 -- 昆鹏自动发货平台_files/tousu.js.下载"></script>
+
+</body></html>
